@@ -1,24 +1,13 @@
-# README
+# RailsNewBlog01
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Welcome Page
+![alt text](Images/welcome.png)
 
-Things you may want to cover:
+* List Of Articles
+![alt text](Images/listOfArticles.png)
 
-* Ruby version
+* New Article
+![alt text](Images/newArticle.png)
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Show
+![alt text](Images/show.png)
